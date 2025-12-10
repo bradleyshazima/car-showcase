@@ -1,0 +1,17 @@
+@import "tailwindcss";
+
+.sf {
+  font-family: 'SF Pro Display', sans-serif;
+}
+
+.pheno {
+    font-family: 'Phenomicon', sans-serif;
+}
+
+.pop {
+    font-family: 'Poppins', sans-serif;
+}
+
+.bg-grad {
+    background-image: linear-gradient(to bottom, transparent, black)
+}
