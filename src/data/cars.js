@@ -4,7 +4,7 @@ export const cars = [
   {
     id: 1,
     name: "Mercedes Benz",
-    model: '/models/mercedes_benz_w206_c220.glb',
+    model: '/models/mercedes.glb',
     modelName: 'C220 (W206)',
     logo: '/images/mercedes.png',
     description: "A sophisticated compact executive sedan featuring a mild-hybrid powertrain, aerodynamic efficiency, and S-Class inspired interior technology.",
@@ -19,7 +19,7 @@ export const cars = [
   {
     id: 2,
     name: "McLaren",
-    model: '/models/mclaren_p1.glb',
+    model: '/models/mclaren.glb',
     modelName: 'P1',
     logo: '/images/mclaren1.png',
     description: "A limited-production plug-in hybrid hypercar that utilizes Formula 1 technology, including IPAS (Instant Power Assist System) for extreme performance.",
@@ -34,7 +34,7 @@ export const cars = [
   {
     id: 3,
     name: "Honda",
-    model: '/models/honda_nsx_nc1.glb',
+    model: '/models/honda.glb',
     modelName: 'NSX (NC1)',
     logo: '/images/honda.png',
     description: "The second-generation NSX is a hybrid supercar featuring a bespoke twin-turbo engine and a three-motor Sport Hybrid SH-AWD system for vectoring torque.",
@@ -49,7 +49,7 @@ export const cars = [
   {
     id: 4,
     name: "DS",
-    model: '/models/Ds_e_tense.glb',
+    model: '/models/ds.glb',
     modelName: 'E Tense',
     logo: '/images/honda.png',
     description: "The second-generation NSX is a hybrid supercar featuring a bespoke twin-turbo engine and a three-motor Sport Hybrid SH-AWD system for vectoring torque.",
