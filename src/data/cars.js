@@ -46,4 +46,19 @@ export const cars = [
     },
     color: "rgb(167,16,16)"
   },
+  {
+    id: 4,
+    name: "DS",
+    model: '/models/Ds_e_tense.glb',
+    modelName: 'E Tense',
+    logo: '/images/honda.png',
+    description: "The second-generation NSX is a hybrid supercar featuring a bespoke twin-turbo engine and a three-motor Sport Hybrid SH-AWD system for vectoring torque.",
+    scale: 10,
+    specs: {
+      engine: "3.5L Twin-Turbo V6 Hybrid",
+      horsepower: 573,
+      topSpeed: 191,
+    },
+    color: "rgb(13,63,19)"
+  },
 ];
